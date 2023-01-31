@@ -27,6 +27,7 @@ $ git branch userName
 |username|Real name|github link|
 |:--:|:--:|:--:|
 |cutegyuseok|Gyuseok Lee|[cutegyuseok](https://github.com/cutegyuseok)|
+|jini5|Hyeonjin Lim|[jini5](https://github.com/jini5)|
 
 ## References
 
